@@ -1,0 +1,6 @@
+module top_module( output one );
+
+// Insert your code here
+    assign one = 1'b1; //to declare a value use a'cd, a is the number of bits, c the type (binary, hexa), d the number in that type
+    
+endmodule

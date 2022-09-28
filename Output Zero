@@ -1,0 +1,6 @@
+module top_module(
+    output zero
+);// Module body starts after semicolon
+    assign zero = 1'b0; //assigning a value of 0 in binary for the 'zero' output
+
+endmodule
